@@ -15,7 +15,7 @@ class Program
             new Vector3(0, 0, 0),
             new Vector3(0, 1, 0),
             45.0f,
-            0 // Perspective
+            0 
         );
 
         int maxParticles = 5000;
